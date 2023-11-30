@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PatientManagementSystem</string>
+    <string name="tvTitle">Patient Appointment List</string>
+    <string name="btnAdd">Add Patient</string>
+    <string name="AlertTitle">New Appointment</string>
+    <string name="SetAppointment">Enter Patient Name</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvHeading">HealthHub Pro</string>
+    <string name="tvPlus">+</string>
+    <string name="saveColor">Save</string>
+    <string name="tvColorSelect">Select Color</string>
+    <string name="Comp">Modernizing Hospital Patient Care.</string>
+    <string name="btnEmergency">Emergency</string>
+
+    <string-array name="colors">
+        <item>Blank</item>
+        <item>Background 1</item>
+        <item>Background 2</item>
+        <item>Background 3</item>
+        <item>Background 4</item>
+        <item>Background 5</item>
+    </string-array>
+</resources>
